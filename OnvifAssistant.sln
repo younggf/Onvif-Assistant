@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnvifAssistant", "OnvifAssistant\OnvifAssistant.csproj", "{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnvifIPClib", "OnvifIPClib\OnvifIPClib.csproj", "{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Debug|x86.ActiveCfg = Debug|x86
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Debug|x86.Build.0 = Debug|x86
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Release|x86.ActiveCfg = Release|x86
+		{4A6A7DB9-7EA7-4CCA-A196-6C982B561C68}.Release|x86.Build.0 = Release|x86
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Debug|x86.Build.0 = Debug|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Release|x86.ActiveCfg = Release|Any CPU
+		{237CE7D8-4F2E-4616-B592-D5FD7FB48C78}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98ED20E-B066-496F-B0FA-45C0296B19E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.csprojResolveAssemblyReference.cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.Properties.Resources.resources
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifAssistant.VideoView.resources
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.csproj.GenerateResource.Cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.csproj.CoreCompileInputs.cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\OnvifIPClib.pdb
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\OzekiSDK.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\Vlc.DotNet.Core.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\Vlc.DotNet.Core.Interops.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\Vlc.DotNet.Forms.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\Vlc.DotNet.Wpf.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.pdb
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\bin\Debug\OnvifIPClib.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifIPClib\obj\Debug\OnvifIPClib.dll

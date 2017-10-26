@@ -1,0 +1,14 @@
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\OnvifAssistant.exe.config
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\OnvifAssistant.exe
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\OnvifAssistant.pdb
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\Vlc.DotNet.Wpf.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\Vlc.DotNet.Forms.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\Vlc.DotNet.Core.Interops.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\bin\Debug\Vlc.DotNet.Core.dll
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.csprojResolveAssemblyReference.cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.Form1.resources
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.Properties.Resources.resources
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.csproj.GenerateResource.Cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.csproj.CoreCompileInputs.cache
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.exe
+F:\Project\SmartNvr\OnVif\OnVifAssistant-c#\OnvifAssistant\OnvifAssistant\obj\Debug\OnvifAssistant.pdb
